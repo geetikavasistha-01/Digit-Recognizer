@@ -40,7 +40,7 @@ This project demonstrates fundamental computer vision and deep learning concepts
 
 1. Click the badge below to open in Colab:
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/digit-recognizer/blob/main/digit_recognizer.ipynb)
+   [![Open In Colab](https://colab.research.google.com/drive/18ssr4-mcqJbDhCSCGP_X1uqPi0loRwmL?usp=sharing)
 
 2. Run all cells in sequence
 3. Upload custom digit images for testing
@@ -49,8 +49,8 @@ This project demonstrates fundamental computer vision and deep learning concepts
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/digit-recognizer.git
-cd digit-recognizer
+git clone https://github.com/YOUR_USERNAME/Digit-Recognizer.git
+cd Digit-Recognizer
 ```
 
 2. Create a virtual environment:
@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 4. Run the notebook:
 ```bash
-jupyter notebook digit_recognizer.ipynb
+jupyter notebook Digit_Recognizer.ipynb
 ```
 
 ## Project Structure
@@ -144,10 +144,10 @@ for filename, content in uploaded.items():
 ## Screenshots
 
 ### Training Progress
-![Training Curves](images/training_curves.png)
+![Training Curves](Images/Sample_MNIST_image.png)
 
 ### Prediction Results
-![Sample Predictions](images/sample_predictions.png)
+![Sample Predictions](Images/Model_Prediction.png)
 
 ## Future Improvements
 
@@ -168,9 +168,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -178,11 +175,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - TensorFlow/Keras documentation and tutorials
 - Inspired by Andrew Ng's Deep Learning Specialization
 
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
-
-Project Link: [https://github.com/YOUR_USERNAME/digit-recognizer](https://github.com/YOUR_USERNAME/digit-recognizer)
 
 ## Citation
 
