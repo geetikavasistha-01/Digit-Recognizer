@@ -1,6 +1,7 @@
 # Vision AI Fundamentals - Digit Recognizer
 
 A comprehensive machine learning project implementing handwritten digit recognition using both neural networks from scratch and TensorFlow/Keras on the MNIST dataset.
+<img width="1452" height="593" alt="Sample MNIST image" src="https://github.com/user-attachments/assets/8cc57d6d-3927-4e5c-9799-065545268af1" /> <img width="1439" height="593" alt="Model Prediction" src="https://github.com/user-attachments/assets/2085f87e-4c0f-4439-a716-863904c2da11" /><img width="1050" height="390" alt="test with random number (a)" src="https://github.com/user-attachments/assets/5458ceca-d379-4626-a599-d639f818b850" />
 
 ## Project Overview
 
@@ -140,14 +141,6 @@ for filename, content in uploaded.items():
 - Data preprocessing and normalization techniques
 - Model evaluation and performance metrics
 - Visualization of training dynamics
-
-## Screenshots
-
-### Training Progress
-![Training Curves](Images/Sample_MNIST_image.png)
-
-### Prediction Results
-![Sample Predictions](Images/Model_Prediction.png)
 
 ## Future Improvements
 
