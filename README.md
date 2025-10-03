@@ -176,16 +176,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Inspired by Andrew Ng's Deep Learning Specialization
 
 
-## Citation
-
-If you use this project in your research or work, please cite:
-
-```bibtex
-@misc{digit-recognizer,
-  author = {Your Name},
-  title = {Vision AI Fundamentals - Digit Recognizer},
-  year = {2025},
-  publisher = {GitHub},
-  url = {https://github.com/YOUR_USERNAME/digit-recognizer}
-}
-```
